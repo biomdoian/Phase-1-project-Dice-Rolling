@@ -1,0 +1,39 @@
+/*body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: chocolate;
+}
+
+.dice-container {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.dice-image {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    transition: transform 0.7s ease; 
+}
+
+.dice-image.rolling {
+    transform: rotate(360deg);
+}
+
+#roll-button {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    cursor: pointer;
+    margin-bottom: 20px;
+    color: aqua;
+    background-color: brown;
+}
+
+#roll-result {
+    font-size: 1.5em;
+    color: aquamarine;
+}*/
