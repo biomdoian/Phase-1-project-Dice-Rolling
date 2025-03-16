@@ -1,4 +1,4 @@
-/*body {
+body {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -36,4 +36,4 @@
 #roll-result {
     font-size: 1.5em;
     color: aquamarine;
-}*/
+}
