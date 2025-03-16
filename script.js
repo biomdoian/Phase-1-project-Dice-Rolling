@@ -1,4 +1,4 @@
-/*const dice1 = document.getElementById("dice-1");
+const dice1 = document.getElementById("dice-1");
 const dice2 = document.getElementById("dice-2");
 const rollButton = document.getElementById("roll-button");
 const rollResult = document.getElementById("roll-result");
@@ -31,7 +31,7 @@ function rollDice() {
     }, 500); // Delay to allow rotation
 }
 
-rollButton.addEventListener("click", rollDice);*/
+rollButton.addEventListener("click", rollDice);
 
 
 
